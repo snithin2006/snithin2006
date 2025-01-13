@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 - TensorFlow, OpenCV, Scikit-Learn, Pandas, React, Flask, Flutter, FastAPI, Spring Boot
 
 ### **Databases**  
-- MySQL, PostgreSQL, MongoDB, Supabase
+- MySQL, PostgreSQL, MongoDB, Firebase, Supabase
 
 ### **Cloud & Platforms**  
 - Microsoft Azure, Google Cloud  
