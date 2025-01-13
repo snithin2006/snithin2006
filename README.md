@@ -27,16 +27,16 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 - Python, Java, JavaScript, SQL, C, HTML, CSS  
 
 ### **Frameworks & Libraries**  
-- TensorFlow, Keras, OpenCV, Scikit-Learn, Pandas, React, Flask, Spring Boot  
+- TensorFlow, OpenCV, Scikit-Learn, Pandas, React, Flask, Flutter, FastAPI, Spring Boot
 
 ### **Databases**  
-- PostgreSQL, MongoDB, Supabase  
+- MySQL, PostgreSQL, MongoDB, Supabase
 
 ### **Cloud & Platforms**  
-- Microsoft Azure, Google Cloud, Vercel, Render  
+- Microsoft Azure, Google Cloud  
 
 ### **Version Control & Others**  
-- Git, Docker  
+- Gitr
 
 ---
 
