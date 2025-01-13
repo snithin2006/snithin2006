@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 ---
 
 ## 🌟 **What’s Next?**  
-Between school and my role at Steerwise, I’m collaborating with a new team to transform **Mobilize** from an MVP into a scalable application reaching **100+ colleges across Texas**. I’m also working on my **comic-style portfolio website**—stay tuned for that at [nithinsivakumar.com](http://nithinsivakumar.com) (hopefully 🤞).  
+Between school and my role at Steerwise, I’m collaborating with a new team to transform **Mobilize** from an MVP into a scalable application reaching **100+ colleges across Texas**. I’m also working on my **comic-style portfolio website**—stay tuned for that at [nithinsivakumar.com](http://nithinsivakumar.com) (hopefully 🤞) or check my GitHub repo for it's WIP code.  
 
 ---
 
