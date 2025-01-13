@@ -3,17 +3,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 
 ---
 
-## **What I've Been Up To**  
-- 🤖 **Part-time Data & AI Engineer** @ Steerwise  
-- ♿ **Developing Mobilize**  
-- 📦 **Intern @ One Network Enterprises** (now part of Blue Yonder)
-- 🌱 **Founder of Grocals** 
-- 👨‍💻 **Founder @ Infowyze**   
-- 📰 **AI/ML Researcher**    
-- 🌍 **Web Developer @ STEMpump**  
-
----
-
 ## 🛠 **Tech Stack & Tools**  
 
 ### **Languages**  
