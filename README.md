@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 ### **Cloud & Platforms**  
 - Microsoft Azure, Google Cloud  
 
-### **Version Control & Others**  
+### **Version Control**  
 - Git
 
 ---
