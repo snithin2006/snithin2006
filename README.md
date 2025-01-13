@@ -1,5 +1,5 @@
 # Hi, I'm Nithin Sivakumar! 👋  
-Welcome to my GitHub profile! I'm a Computer Science student at The University of Texas at Austin, specializing in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Analytics**. My work spans diverse domains, from accessibility-focused apps to AI-driven solutions and sustainable technology platforms.  
+Welcome to my GitHub profile! I'm a Computer Science student at The University of Texas at Austin, specializing in **AI/ML**, and **Data Analytics**. My work spans diverse domains, from accessibility-focused apps to AI-driven solutions and sustainable technology platforms.  
 
 ---
 
