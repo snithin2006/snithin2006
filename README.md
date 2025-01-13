@@ -5,17 +5,23 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 
 ## 👨‍💻 **What I've Been Up To**  
 - 🤖 **Part-time Data & AI Engineer** @ Steerwise  
-   Developing **gen-AI solutions** for their **data mesh platform**.  
+   Developing **gen-AI solutions** for their **data mesh platform**.
+  
 - ♿ **Developing Mobilize**  
-   Aiming to empower individuals with **physical disabilities** to navigate campuses with ease.  
-- 📦 **Intern @ One Network Enterprises** (now part of Blue Yonder)  
-   Bootstrapped their **first supply chain chatbot** and optimized their **API framework**.  
+   Aiming to empower individuals with **physical disabilities** to navigate campuses with ease.
+  
+- 📦 **Intern @ One Network Enterprises** (now part of Blue Yonder)
+   Bootstrapped their **first supply chain chatbot** and optimized their **API framework**.
+  
 - 🌱 **Founder of Grocals**  
-   Created a marketplace app encouraging **home gardeners** to exchange produce and promote **sustainable farming**.  
+   Created a marketplace app encouraging **home gardeners** to exchange produce and promote **sustainable farming**.
+  
 - 👨‍🏫 **Founder @ Infowyze**  
-   A student-led initiative making **data science education accessible**, fostering a community of **500+ students**.  
+   A student-led initiative making **data science education accessible**, fostering a community of **500+ students**.
+  
 - 📰 **Researcher**  
-   Published and presented research on **fake news detection using AI/ML**, forming the foundation for a **master’s thesis**.  
+   Published and presented research on **fake news detection using AI/ML**, forming the foundation for a **master’s thesis**.
+  
 - 🌍 **Web Developer @ STEMpump**  
    Revamped the backend portal, contributing to its global reach of **150k+ students**.  
 
