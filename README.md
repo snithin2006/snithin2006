@@ -1,24 +1,5 @@
 # Hi, I'm Nithin Sivakumar! 👋  
-Welcome to my GitHub profile! I'm a Computer Science student at The University of Texas at Austin, specializing in **AI/ML**, and **Data Analytics**. My work spans diverse domains, from accessibility-focused apps to AI-driven solutions and sustainable technology platforms.  
-
----
-
-## 🛠 **Tech Stack & Tools**  
-
-### **Languages**  
-- Python, Java, JavaScript, SQL, C, HTML, CSS  
-
-### **Frameworks & Libraries**  
-- TensorFlow, OpenCV, Scikit-Learn, Pandas, React, Flask, Flutter, FastAPI, Spring Boot
-
-### **Databases**  
-- MySQL, PostgreSQL, MongoDB, Firebase, Supabase
-
-### **Cloud & Platforms**  
-- Microsoft Azure, Google Cloud  
-
-### **Version Control**  
-- Git
+Welcome to my GitHub profile! I'm a Computer Science student at The University of Texas at Austin, specializing in **AI/ML**, and **Data Analytics**. My work spans diverse domains, from accessibility-focused apps to AI-driven solutions and sustainable technology platforms. Feel free to check out some of my code and test out some projects!
 
 ---
 
