@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at The University o
 ### 📬 **Let’s Connect**  
 If you’d like to discuss ideas, explore collaborations, or just say hi, feel free to reach out:  
 📧 **Email**: [nithin06.siva@gmail.com](mailto:nithin06.siva@gmail.com)
-
 📱 [**Instagram**](https://www.instagram.com/nithin.s06/)
 
 
